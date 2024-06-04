@@ -1,1 +1,1 @@
-# GA/T 1399 Platform
+# GA/T 1399-2017 Platform
